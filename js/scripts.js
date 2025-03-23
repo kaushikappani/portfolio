@@ -19338,7 +19338,7 @@ const W2 = () => {
                         element: u.jsx(q2, {})
                     }), u.jsx(Wa, {
                         path: "*",
-                        element: u.jsx(Z2, {})
+                        element: u.jsx(q2, {})
                     })]
                 })
             })]
