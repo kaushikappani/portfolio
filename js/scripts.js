@@ -17828,7 +17828,7 @@ const $2 = () => {
     }, {
         institution: "Global Indian International School",
         degree: "Primary and Secondary Education",
-        field: "Whitefield Bangalore",
+        field: "Hyderabad",
         logo: "",
         startYear: "",
         endYear: "2017"
