@@ -17774,7 +17774,7 @@ const $2 = () => {
     , Te = {
         name: "Kaushik Appani",
         role: "Software Engineer II",
-        company: "Bajaj Markets",
+        company: "Bajaj Technology Services",
         email: "kaushikappani@gmail.com",
         github: "https://github.com/kaushikappani",
         linkedin: "https://www.linkedin.com/in/kaushikappani/",
@@ -17784,7 +17784,7 @@ const $2 = () => {
     }
     , lr = [{
         title: "Software Engineer II",
-        company: "Bajaj Markets",
+        company: "Bajaj Technology Services",
         logo: "https://media.licdn.com/dms/image/v2/D4D0BAQFmk4MG6Ma9zQ/company-logo_400_400/company-logo_400_400/0/1694431568962/bajaj_markets_logo?e=1748476800&v=beta&t=8ar3ksjx9bi_rluXaMmz4DDeOQBntiFykBnMq0C9KFM",
         startDate: "July 2024",
         endDate: "Current",
@@ -18029,7 +18029,7 @@ const W2 = () => {
                             children: "Professional Background"
                         }), u.jsx("p", {
                             className: "text-muted-foreground",
-                            children: "Software Engineer II at Bajaj Markets with progressive experience in the financial services sector. Expertise in developing scalable backend systems and CRM software solutions."
+                            children: "Software Engineer II at Bajaj Technology Services with progressive experience in the financial services sector. Expertise in developing scalable backend systems and CRM software solutions."
                         })]
                     })
                 }), u.jsx(he, {
@@ -18121,7 +18121,7 @@ const W2 = () => {
                         children: "My Journey"
                     }), u.jsx("p", {
                         className: "text-muted-foreground mb-4",
-                        children: "I am a software engineer with a strong foundation in electrical, electronics, and communications engineering from Vellore Institute of Technology. My career at Bajaj Markets has evolved from an Engineer Intern to my current role as Software Engineer II, where I specialize in developing scalable backend systems and CRM solutions for the financial services sector."
+                        children: "I am a software engineer with a strong foundation in electrical, electronics, and communications engineering from Vellore Institute of Technology. My career at Bajaj has evolved from an Engineer Intern to my current role as Software Engineer II, where I specialize in developing scalable backend systems and CRM solutions for the financial services sector."
                     }), u.jsx("p", {
                         className: "text-muted-foreground mb-4",
                         children: "With expertise in Java, Spring Boot, and the MERN stack, I have contributed to the development of robust and efficient software solutions. My experience also includes leading projects as the Projects Head at IEEE Power & Energy Society, where I coordinated technical initiatives and managed team members."
