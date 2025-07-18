@@ -17785,21 +17785,21 @@ const $2 = () => {
     , lr = [{
         title: "Software Engineer II",
         company: "Bajaj Technology Services",
-        logo: "https://media.licdn.com/dms/image/v2/D4D0BAQFmk4MG6Ma9zQ/company-logo_400_400/company-logo_400_400/0/1694431568962/bajaj_markets_logo?e=1748476800&v=beta&t=8ar3ksjx9bi_rluXaMmz4DDeOQBntiFykBnMq0C9KFM",
+        logo: "https://static.theprint.in/wp-content/uploads/2022/12/ANI-20221229094042.jpg",
         startDate: "July 2024",
         endDate: "Current",
         responsibilities: ["Developing and maintaining scalable backend systems", "Creating CRM software solutions for financial services", "Implementing performance tuning and optimization", "Working with Java, Spring Boot, and MERN stack technologies"]
     }, {
         title: "Software Engineer - 1",
         company: "Bajaj Markets",
-        logo: "https://media.licdn.com/dms/image/v2/D4D0BAQFmk4MG6Ma9zQ/company-logo_400_400/company-logo_400_400/0/1694431568962/bajaj_markets_logo?e=1748476800&v=beta&t=8ar3ksjx9bi_rluXaMmz4DDeOQBntiFykBnMq0C9KFM",
+        logo: "https://static.theprint.in/wp-content/uploads/2022/12/ANI-20221229094042.jpg",
         startDate: "July 2023",
         endDate: "July 2024",
         responsibilities: ["Contributed to backend development", "Worked on API development and integration", "Collaborated with cross-functional teams using Agile methodologies"]
     }, {
         title: "Engineer Intern",
         company: "Bajaj Markets",
-        logo: "https://media.licdn.com/dms/image/v2/D4D0BAQFmk4MG6Ma9zQ/company-logo_400_400/company-logo_400_400/0/1694431568962/bajaj_markets_logo?e=1748476800&v=beta&t=8ar3ksjx9bi_rluXaMmz4DDeOQBntiFykBnMq0C9KFM",
+        logo: "https://static.theprint.in/wp-content/uploads/2022/12/ANI-20221229094042.jpg",
         startDate: "January 2024",
         endDate: "July 2023",
         responsibilities: ["Assisted in software development and testing", "Gained practical experience in industry-standard technologies", "Participated in team projects and code reviews"]
