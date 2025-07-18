@@ -17785,28 +17785,28 @@ const $2 = () => {
     , lr = [{
         title: "Software Engineer II",
         company: "Bajaj Technology Services",
-        logo: "https://static.theprint.in/wp-content/uploads/2022/12/ANI-20221229094042.jpg",
+        logo: "./assets/logo/bmarkets.png",
         startDate: "July 2024",
         endDate: "Current",
         responsibilities: ["Developing and maintaining scalable backend systems", "Creating CRM software solutions for financial services", "Implementing performance tuning and optimization", "Working with Java, Spring Boot, and MERN stack technologies"]
     }, {
         title: "Software Engineer - 1",
         company: "Bajaj Markets",
-        logo: "https://static.theprint.in/wp-content/uploads/2022/12/ANI-20221229094042.jpg",
+        logo: "./assets/logo/bmarkets.png",
         startDate: "July 2023",
         endDate: "July 2024",
         responsibilities: ["Contributed to backend development", "Worked on API development and integration", "Collaborated with cross-functional teams using Agile methodologies"]
     }, {
         title: "Engineer Intern",
         company: "Bajaj Markets",
-        logo: "https://static.theprint.in/wp-content/uploads/2022/12/ANI-20221229094042.jpg",
+        logo: "./assets/logo/bmarkets.png",
         startDate: "January 2024",
         endDate: "July 2023",
         responsibilities: ["Assisted in software development and testing", "Gained practical experience in industry-standard technologies", "Participated in team projects and code reviews"]
     }, {
         title: "Projects Head",
         company: "IEEE Power & Energy Society",
-        logo: "https://media.licdn.com/dms/image/v2/D4E0BAQEunIYONklchQ/company-logo_400_400/company-logo_400_400/0/1738093553765/ieeepes_logo?e=1748476800&v=beta&t=mnt95RYUwGW90pjlhd8EbqmyDyw4Q8MO_bv1Oq75euM",
+        logo: "./assets/logo/pes.jpg",
         startDate: "2021",
         endDate: "2022",
         responsibilities: ["Led and coordinated technical projects", "Managed team members and project timelines", "Organized technical events and workshops"]
@@ -17815,14 +17815,14 @@ const $2 = () => {
         institution: "Vellore Institute of Technology",
         degree: "Bachelor of Technology (BTech)",
         field: "Electrical, Electronics and Communications Engineering",
-        logo: "https://media.licdn.com/dms/image/v2/D560BAQH0u0StCXmEkg/company-logo_400_400/company-logo_400_400/0/1732705890200/vellore_institute_of_technology_logo?e=1748476800&v=beta&t=LL7innf9GguNxCxCjPs39OxciIVsVMAej4QpR2cJ5gg",
+        logo: "./assets/logo/Vellore_Institute_of_Technology_seal_2017.svg.png",
         startYear: "2019",
         endYear: "2023"
     }, {
         institution: "FIITJEE",
         degree: "Pre-University Education",
         field: "Science and Mathematics",
-        logo: "https://media.licdn.com/dms/image/v2/C560BAQE9d_SBZk1M2g/company-logo_400_400/company-logo_400_400/0/1631339786430?e=1748476800&v=beta&t=33t_2eafIFe7PpqvctrOxH90Rw8OA4PWOv0Pp0a8OFY",
+        logo: "./assets/logo/fiitjee.png",
         startYear: "2017",
         endYear: "2019"
     }, {
@@ -17849,12 +17849,12 @@ const $2 = () => {
     , U2 = [{
         name: "Devspace 2022",
         issuer: "Computer Society of India",
-        logo: "https://media.licdn.com/dms/image/v2/C510BAQG9cFMfbInkxw/company-logo_400_400/company-logo_400_400/0/1631326846675?e=1748476800&v=beta&t=0IoCVZrx7E51qplV-9gLhiJ5ZRNcrH-o9Clk46vkWxc",
+        logo: "./assets/logo/csivit.png",
         date: "2022"
     }, {
         name: "Machine Learning for All",
         issuer: "Coursera",
-        logo: "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1748476800&v=beta&t=OQ4lojCXtojtb8troNnmg0FmYNOaWG_HGYV3b2Mfrbw",
+        logo: "./assets/logo/coursera.png",
         date: "2021"
     }];
 function he({ children: e, className: t, delay: n = 0, threshold: r = .1, direction: o = "up", distance: s = 20, once: i = !0 }) {
