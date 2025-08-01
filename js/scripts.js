@@ -17773,8 +17773,8 @@ const $2 = () => {
 }
     , Te = {
         name: "Kaushik Appani",
-        role: "Software Engineer II",
-        company: "Bajaj Technology Services",
+        role: "Software Engineer",
+        company: "Rahi Platform Technologies",
         email: "kaushikappani@gmail.com",
         github: "https://github.com/kaushikappani",
         linkedin: "https://www.linkedin.com/in/kaushikappani/",
@@ -17783,6 +17783,14 @@ const $2 = () => {
         profileImage: "./assets/img/profile.jpeg"
     }
     , lr = [{
+        title: "Software Engineer",
+        company: "Rahi Platform Technologies",
+        logo: "./assets/logo/rahi_platform_technologies_logo.jpg",
+        startDate: "July 2024",
+        endDate: "Current",
+        responsibilities: ["Developing and maintaining scalable backend systems", "Creating CRM software solutions for financial services", "Working with Java, Spring Boot, and MERN stack technologies"]
+    },
+        {
         title: "Software Engineer II",
         company: "Bajaj Technology Services",
         logo: "./assets/logo/bmarkets.png",
@@ -18029,7 +18037,7 @@ const W2 = () => {
                             children: "Professional Background"
                         }), u.jsx("p", {
                             className: "text-muted-foreground",
-                            children: "Software Engineer II at Bajaj Technology Services with progressive experience in the financial services sector. Expertise in developing scalable backend systems and CRM software solutions."
+                            children: "Software Engineer @Rahi Platform Technologies with progressive experience in the financial services sector. Expertise in developing scalable backend systems and CRM software solutions."
                         })]
                     })
                 }), u.jsx(he, {
@@ -18121,7 +18129,7 @@ const W2 = () => {
                         children: "My Journey"
                     }), u.jsx("p", {
                         className: "text-muted-foreground mb-4",
-                        children: "I am a software engineer with a strong foundation in electrical, electronics, and communications engineering from Vellore Institute of Technology. My career at Bajaj has evolved from an Engineer Intern to my current role as Software Engineer II, where I specialize in developing scalable backend systems and CRM solutions for the financial services sector."
+                        children: "I am a software engineer with a strong foundation in electrical, electronics, and communications engineering from Vellore Institute of Technology. Over the course of my career, I’ve progressed from an engineering intern to a software engineer, focusing on building scalable backend systems and delivering CRM solutions within the financial services domain."
                     }), u.jsx("p", {
                         className: "text-muted-foreground mb-4",
                         children: "With expertise in Java, Spring Boot, and the MERN stack, I have contributed to the development of robust and efficient software solutions. My experience also includes leading projects as the Projects Head at IEEE Power & Energy Society, where I coordinated technical initiatives and managed team members."
