@@ -17774,50 +17774,42 @@ const $2 = () => {
     , Te = {
         name: "Kaushik Appani",
         role: "Software Engineer",
-        company: "Rahi Platform Technologies",
+        company: "Rahi Platform Technology",
         email: "kaushikappani@gmail.com",
         github: "https://github.com/kaushikappani",
         linkedin: "https://www.linkedin.com/in/kaushikappani/",
-        bio: "Software engineer specializing in scalable backend systems and CRM solutions for financial services. Passionate about creating efficient and robust software solutions.",
+        bio: "Backend-focused Software Engineer with 3+ years of experience building scalable fintech and CRM systems handling high-volume transactional workloads. Specialized in Java, Spring Boot, microservices, and API-driven architectures, with recent experience in AI-powered workflow automation and MCP-based systems.",
         location: "Pune, India",
         profileImage: "./assets/img/profile.jpeg"
     }
     , lr = [{
         title: "Software Engineer",
-        company: "Rahi Platform Technologies",
+        company: "Rahi Platform Technology",
         logo: "./assets/logo/rahi_platform_technologies_logo.jpg",
-        startDate: "July 2024",
-        endDate: "Current",
-        responsibilities: ["Developing and maintaining scalable backend systems", "Creating CRM software solutions for financial services", "Working with Java, Spring Boot, and MERN stack technologies"]
-    },
-        {
-        title: "Software Engineer II",
-        company: "Bajaj Technology Services",
-        logo: "./assets/logo/bmarkets.png",
-        startDate: "July 2024",
-        endDate: "Current",
-        responsibilities: ["Developing and maintaining scalable backend systems", "Creating CRM software solutions for financial services", "Implementing performance tuning and optimization", "Working with Java, Spring Boot, and MERN stack technologies"]
+        startDate: "July 2025",
+        endDate: "Present",
+        responsibilities: ["Building cloud-agnostic Loan Management on a secure multi-tenant SAAS platform covering origination to collections with API-first integrations.", "Implemented Spring Batch jobs to process loan account end-of-day (EOD) events, ensuring reliable bulk processing and data consistency.", "Built an AI-powered MCP framework for collections to analyze call recordings and automate decision-making workflows, improving recovery operations.", "Integrated payment gateways, dialer systems, and multi-channel communication (SMS, Email, WhatsApp) to enable seamless collections and customer engagement workflows."]
     }, {
-        title: "Software Engineer - 1",
-        company: "Bajaj Markets",
+        title: "Software Engineer-2",
+        company: "Bajaj Finserv Direct Limited",
         logo: "./assets/logo/bmarkets.png",
-        startDate: "July 2023",
-        endDate: "July 2024",
-        responsibilities: ["Contributed to backend development", "Worked on API development and integration", "Collaborated with cross-functional teams using Agile methodologies"]
+        startDate: "June 2024",
+        endDate: "July 2025",
+        responsibilities: ["Designed and implemented Role-Based Access Control (RBAC) to ensure secure access management across different user hierarchies.", "Optimized backend modules, improving scalability and reliability under high workloads, enhancing request throughput by 30% and reducing downtime.", "Integrated bank verification using Kotak APIs, enabling real-time KYC and account validation, reducing verification failures by 25%."]
     }, {
-        title: "Engineer Intern",
-        company: "Bajaj Markets",
+        title: "Software Engineer-1",
+        company: "Bajaj Finserv Direct Limited",
         logo: "./assets/logo/bmarkets.png",
-        startDate: "January 2024",
-        endDate: "July 2023",
-        responsibilities: ["Assisted in software development and testing", "Gained practical experience in industry-standard technologies", "Participated in team projects and code reviews"]
+        startDate: "June 2023",
+        endDate: "June 2024",
+        responsibilities: ["Developed a scalable CRM system for credit loans, improving loan management efficiency and handling 10,000+ transactions daily.", "Optimized database queries and backend logic, reducing query execution time by 40% and improving overall system performance.", "Implemented key features to streamline customer onboarding, loan processing, and workflow automation, reducing manual efforts by 30%.", "Enhanced API performance and security, ensuring seamless integration with third-party services and maintaining 99.9% uptime."]
     }, {
-        title: "Projects Head",
-        company: "IEEE Power & Energy Society",
-        logo: "./assets/logo/pes.jpg",
-        startDate: "2021",
-        endDate: "2022",
-        responsibilities: ["Led and coordinated technical projects", "Managed team members and project timelines", "Organized technical events and workshops"]
+        title: "Byte Intern",
+        company: "Bajaj Finserv Direct Limited",
+        logo: "./assets/logo/bmarkets.png",
+        startDate: "January 2023",
+        endDate: "June 2023",
+        responsibilities: ["Gained hands-on experience in Java and Spring Boot by developing and deploying real-world enterprise applications.", "Developed scalable and production-ready applications, improving system efficiency."]
     }]
     , B2 = [{
         institution: "Vellore Institute of Technology",
@@ -17842,17 +17834,23 @@ const $2 = () => {
         endYear: "2017"
     }]
     , Zd = [{
-        category: "Programming Languages",
-        items: ["Java", "JavaScript", "TypeScript", "HTML/CSS", "SQL"]
+        category: "Languages",
+        items: ["Java", "JavaScript"]
     }, {
-        category: "Frameworks & Libraries",
-        items: ["Spring Boot", "React", "Node.js", "Express.js", "MongoDB"]
+        category: "Backend",
+        items: ["Spring Boot", "Spring Security", "JPA", "Microservices", "REST APIs", "Kafka"]
     }, {
-        category: "Tools & Methodologies",
-        items: ["Git", "Agile/Scrum", "REST API", "Microservices", "Performance Tuning"]
+        category: "Frontend",
+        items: ["ReactJS", "Angular"]
     }, {
-        category: "Database & Cloud",
-        items: ["MongoDB", "SQL", "Database Design", "AWS Basics", "API Development"]
+        category: "Databases",
+        items: ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
+    }, {
+        category: "Cloud & DevOps",
+        items: ["AWS", "Docker", "Jenkins", "Git"]
+    }, {
+        category: "AI & MCP",
+        items: ["MCP", "LLM Integration", "OpenAI APIs"]
     }]
     , U2 = [{
         name: "Devspace 2022",
