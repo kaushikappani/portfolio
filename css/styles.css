@@ -4363,4 +4363,12 @@ h6 {
 
 [data-side=right] .\[\[data-side\=right\]_\&\]\:cursor-e-resize {
   cursor: e-resize
+}@media (min-width: 768px) {
+  .md\:py-24 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+}
+.break-all {
+  word-break: break-all;
 }

@@ -17987,7 +17987,7 @@ const W2 = () => {
 }
     , V2 = () => u.jsx("section", {
         id: "about",
-        className: "py-24 px-6 md:px-12 bg-gray-50 dark:bg-gray-900",
+        className: "py-12 md:py-24 px-6 md:px-12 bg-gray-50 dark:bg-gray-900",
         children: u.jsxs("div", {
             className: "container max-w-7xl mx-auto",
             children: [u.jsxs(he, {
@@ -18144,7 +18144,7 @@ const W2 = () => {
         const [e, t] = y.useState(0);
         return u.jsx("section", {
             id: "experience",
-            className: "py-24 px-6 md:px-12",
+            className: "py-12 md:py-24 px-6 md:px-12",
             children: u.jsxs("div", {
                 className: "container max-w-7xl mx-auto",
                 children: [u.jsxs(he, {
@@ -18360,7 +18360,7 @@ const W2 = () => {
         const [e, t] = y.useState(0);
         return u.jsx("section", {
             id: "skills",
-            className: "py-24 px-6 md:px-12 bg-gray-50 dark:bg-gray-900",
+            className: "py-12 md:py-24 px-6 md:px-12 bg-gray-50 dark:bg-gray-900",
             children: u.jsxs("div", {
                 className: "container max-w-7xl mx-auto",
                 children: [u.jsxs(he, {
@@ -18557,7 +18557,7 @@ const W2 = () => {
             ;
         return u.jsx("section", {
             id: "education",
-            className: "py-24 px-6 md:px-12",
+            className: "py-12 md:py-24 px-6 md:px-12",
             children: u.jsxs("div", {
                 className: "container max-w-7xl mx-auto",
                 children: [u.jsxs(he, {
@@ -18754,7 +18754,7 @@ const W2 = () => {
     }
     , Y2 = () => u.jsx("section", {
         id: "certifications",
-        className: "py-24 px-6 md:px-12 bg-gray-50 dark:bg-gray-900",
+        className: "py-12 md:py-24 px-6 md:px-12 bg-gray-50 dark:bg-gray-900",
         children: u.jsxs("div", {
             className: "container max-w-7xl mx-auto",
             children: [u.jsxs(he, {
@@ -19100,7 +19100,7 @@ const W2 = () => {
             ;
         return u.jsx("section", {
             id: "contact",
-            className: "py-24 px-6 md:px-12",
+            className: "py-12 md:py-24 px-6 md:px-12",
             children: u.jsxs("div", {
                 className: "container max-w-7xl mx-auto",
                 children: [u.jsxs(he, {
@@ -19145,7 +19145,7 @@ const W2 = () => {
                                             children: "Email"
                                         }), u.jsx("a", {
                                             href: `mailto:${Te.email}`,
-                                            className: "text-lg font-medium hover:text-blue-600 dark:hover:text-blue-400 transition-colors",
+                                            className: "text-lg font-medium hover:text-blue-600 dark:hover:text-blue-400 transition-colors break-all",
                                             children: Te.email
                                         })]
                                     })]
