@@ -17773,13 +17773,14 @@ const $2 = () => {
 }
     , Te = {
         name: "Kaushik Appani",
-        role: "Software Engineer",
+        role: "Backend & AI-Integration Engineer",
         company: "Rahi Platform Technology",
         email: "kaushikappani@gmail.com",
         github: "https://github.com/kaushikappani",
         linkedin: "https://www.linkedin.com/in/kaushikappani/",
-        bio: "Backend-focused Software Engineer with 3+ years of experience building scalable fintech and CRM systems handling high-volume transactional workloads. Specialized in Java, Spring Boot, microservices, and API-driven architectures, with recent experience in AI-powered workflow automation and MCP-based systems.",
+        bio: "Backend-focused Software Engineer with 3+ years of experience architecting scalable FinTech and CRM systems. High-volume transactional workloads specialist. Expertise in Java, Spring Boot microservices, API-driven architectures, AI-powered workflow automation, LLM integrations, and MCP-based systems. Building robust infrastructure for the future.",
         location: "Pune, India",
+
         profileImage: "./assets/img/profile.jpeg"
     }
     , lr = [{
